@@ -1,0 +1,17 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/lab5/lab5.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/uP16_top_tb.v,1611303800,verilog,,,,uP16_top_tb,,,,,,,,
+/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/Data_mem.v,1611305468,verilog,,/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/EX_Mem_PR.v,,D_mem,,,,,,,,
+/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/EX_Mem_PR.v,1414385398,verilog,,/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/EX_stage.v,,EX_Mem_PR,,,,,,,,
+/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/EX_stage.v,1612246390,verilog,,/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/ID_EX_PR.v,,ALU;EX_stage,,,,,,,,
+/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/ID_EX_PR.v,1414383450,verilog,,/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/ID_stage.v,,ID_EX_PR,,,,,,,,
+/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/ID_stage.v,1617688831,verilog,,/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/IF_ID_PR.v,,Control;DF_control;ID_stage;Reg_File,,,,,,,,
+/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/IF_ID_PR.v,1389832406,verilog,,/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/IF_stage.v,,IF_ID_PR,,,,,,,,
+/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/IF_stage.v,1542946872,verilog,,/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/Instruct_mem.v,,IF_stage,,,,,,,,
+/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/Instruct_mem.v,1617689241,verilog,,/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/Mem_WB_PR.v,,I_mem,,,,,,,,
+/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/Mem_WB_PR.v,1414385800,verilog,,/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/Mem_stage.v,,Mem_WB_PR,,,,,,,,
+/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/Mem_stage.v,1612246315,verilog,,/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/uP16_top.v,,Mem_stage,,,,,,,,
+/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/up16_src/uP16_top.v,1414385723,verilog,,/media/mitchellkok/OS/Users/mitch/Desktop/Y2S2/CE2003 Digital Systems Design/Lab 5/Lab5/uP16_top_tb.v,,uP16_top,,,,,,,,

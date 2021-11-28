@@ -1,0 +1,16 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+M:/Lab 4/lab4/lab4.sim/sim_1/behav/xsim/glbl.v,1544126680,verilog,,,,glbl,,,,,,,,
+M:/Lab 4/uP16_top_tb.v,1611275000,verilog,,,,uP16_top_tb,,,,,,,,
+M:/Lab 4/uP_src/Data_mem.v,1611276668,verilog,,M:/Lab 4/uP_src/EX_Mem_PR.v,,D_mem,,,,,,,,
+M:/Lab 4/uP_src/EX_Mem_PR.v,1389803846,verilog,,M:/Lab 4/uP_src/EX_stage.v,,EX_Mem_PR,,,,,,,,
+M:/Lab 4/uP_src/EX_stage.v,1410976112,verilog,,M:/Lab 4/uP_src/ID_EX_PR.v,,ALU;EX_stage,,,,,,,,
+M:/Lab 4/uP_src/ID_EX_PR.v,1410898932,verilog,,M:/Lab 4/uP_src/ID_stage.v,,ID_EX_PR,,,,,,,,
+M:/Lab 4/uP_src/ID_stage.v,1413743190,verilog,,M:/Lab 4/uP_src/IF_ID_PR.v,,Control;ID_stage;Reg_File,,,,,,,,
+M:/Lab 4/uP_src/IF_ID_PR.v,1389803606,verilog,,M:/Lab 4/uP_src/IF_stage.v,,IF_ID_PR,,,,,,,,
+M:/Lab 4/uP_src/IF_stage.v,1542918072,verilog,,M:/Lab 4/uP_src/Instruct_mem.v,,IF_stage,,,,,,,,
+M:/Lab 4/uP_src/Instruct_mem.v,1616212822,verilog,,M:/Lab 4/uP_src/Mem_stage.v,,I_mem,,,,,,,,
+M:/Lab 4/uP_src/Mem_stage.v,1611247628,verilog,,M:/Lab 4/uP_src/uP16_top.v,,Mem_stage,,,,,,,,
+M:/Lab 4/uP_src/uP16_top.v,1611274276,verilog,,M:/Lab 4/uP16_top_tb.v,,uP16_top,,,,,,,,
